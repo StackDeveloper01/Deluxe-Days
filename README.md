@@ -1,6 +1,8 @@
 # Deluxe-Days
 Flutter
 
+Android app link https://play.google.com/store/apps/details?id=com.deluxe.days
+
 Language :- Dart
 
 Front-end Framework :- Flutter
